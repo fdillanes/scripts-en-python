@@ -1,6 +1,6 @@
-#!/usr/bin/env python
 # -*- coding: utf-8 -*-
 # registra todos los archivos de inscripciones y arma un solo listado
+# 
 
 from xlrd import open_workbook,cellname
 
