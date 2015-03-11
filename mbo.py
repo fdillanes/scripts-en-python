@@ -1,4 +1,6 @@
-# abre un mbox y extrae datos y los guarda como un archivo json
+# abre un mbox y extrae datos y los guarda como un archivo 
+# lo uso para llevar cuenta de cuantos inscriptos y a que comisiones
+# me acepta el SAI
 
 import re 
 
