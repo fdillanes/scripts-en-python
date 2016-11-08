@@ -13,7 +13,7 @@ import math
 # crear ventana, agregar titulo
 #================================================
 win = tk.Tk()
-win.title('Calculo de Venta con Tarjetas y Cuotas - Intec Informatica')
+win.title('Calculo de Venta con Tarjetas y Cuotas')
 
 multipbase =  1.05 #ingresa el aumento para venta con tarjeta si le queres poner 10% de arranque
 serieM = (1.0336, 1.0454, 1.0615, 1.0745, 1.0875, 1.1144, 1.1296, 1.1448,  1.1602, 1.1757, 1.1914, 1.22, 1.237, 1.2541, 1.2713, 1.2887, 1.3062, 1.3434, 1.3623,  1.3814, 1.4007, 1.4202, 1.4397)
