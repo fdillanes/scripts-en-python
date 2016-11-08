@@ -13,3 +13,7 @@ Había hecho un respaldo con barry (respaldos para blackberry Linux) y quise res
 | comisiones_inscripciones | mbo |
 
 Comisiones_inscripciones me permite extraer y armar facilmente una planilla de las inscripciones a cursos del INAP solicitadas por las personas de mi organismo. Mbo es para extraer y contar las solicitudes respondidas positivamente por el INAP
+
+| Tarjetas |
+
+Calcula cuanto sale la venta con tarjetas. Los números no están del todo bien, creo. Pero la lógica si. Se prevee el caso de punir el consumo con tarjeta con un 10% de recargo (creo que lo hacen así). En TKinter!! 
